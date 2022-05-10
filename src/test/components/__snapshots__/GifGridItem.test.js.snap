@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem tests debería mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__zoomIn"
+>
+  <img
+    alt="Titulo"
+    src="https://localhost/img.png"
+  />
+  <p>
+    Titulo
+  </p>
+</div>
+`;
